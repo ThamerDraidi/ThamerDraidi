@@ -5,8 +5,6 @@
 - 👋 Hi, I’m ThamerDraidi
 - 💻 I study Computer Systems Engineering at Palestine Technical University – Kadoorie
 - 🌱 I specialize in Back-End development, focusing on ASP.NET
-- ⚡ Fun fact: I sometimes LOVE to code 24/7
-
 <br />
 
 <h1 align="center">Let's Connect 😎</h1>
@@ -35,5 +33,7 @@
 <br />
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
-  <img src="Api.gif" />
+ <img src="Api.gif" alt="My GIF" width="300" />
+<br/>
+<img src="https://profile-counter.glitch.me/ThamerDraidi/count.svg" />
 </div>
