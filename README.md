@@ -33,6 +33,5 @@
 <br />
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
-<img src="https://profile-counter.glitch.me/Thamer Draidi/count.svg" />
  <img src="Api.gif" alt="My GIF"/>
 </div>
