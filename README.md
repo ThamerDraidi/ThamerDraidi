@@ -11,10 +11,9 @@
 
 <h1 align="center">Let's Connect 😎</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/ThamerDraidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ThamerDraidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ThamerDraidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://github.com/ThamerDraidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="linkedin.com/in/thamer-draidi-145676317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/thamer.draidi.2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="leetcode.com/u/thamerdraidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 <br />
@@ -34,16 +33,7 @@
 
 <br />
 <br />
-<p align="center" >
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ThamerDraidi&" alt="ThamerDraidi" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ThamerDraidi&show_icons=true&locale=en" alt="ThamerDraidi" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThamerDraidi&show_icons=true&locale=en&layout=compact" alt="ThamerDraidi" />
-</p>
-
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
-  <img src="https://profile-counter.glitch.me/ThamerDraidi/count.svg" />
+  <img src="" />
 </div>
